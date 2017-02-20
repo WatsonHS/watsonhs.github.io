@@ -1,0 +1,170 @@
+# ---------------------------------------------------------------
+# Site Information Settings
+# ---------------------------------------------------------------
+
+# Head info
+head:
+    favicon: "/img/favicon.png"
+    high_res_favicon: "/img/favicon.png"
+    apple_touch_icon: "/img/favicon.png"
+    keywords: 一往 |Watson H.'s Blog
+
+# Jump Links Settings
+url:
+    rss:
+    daily_pic: "#"
+    logo: "#"
+
+
+# ---------------------------------------------------------------
+# Style Settings
+# ---------------------------------------------------------------
+
+# Schemes
+scheme: Paradox
+#scheme: Isolation
+
+# UI & UX: slogan, color, effect
+uiux:
+    slogan:
+    - "一往"
+    - "我明白你会来，所以我等。"
+    theme_color: "#0097A7"
+    theme_sub_color: "#00838F"
+    hyperlink_color: "#00838F"
+    button_color: "#757575"
+    android_chrome_color: "#0097A7"
+    nprogress_color: "#FF4081"
+    nprogress_buffer: "800"
+
+# JS Effect Switches
+js_effect:
+    fade: true
+    smoothscroll: true
+
+# Reading experience
+# markdown available value:
+#     Material | Github | Plain
+reading:
+    markdown: Github
+    entry_excerpt: 80
+    code_highlight: solarized-white
+
+# Thumbnail Settings
+thumbnail:
+    purecolor:
+    random_amount: 19
+
+# Background Settings
+# bing available parameter:
+#     new | color= | type=
+#         color available value: black, blue, brown, green, multi, orange, pink, purple, red, white, yellow
+#         type available value: A (animal), C (culture), N (nature), S (space), T (travel)
+background:
+    purecolor: "#F5F5F5"
+    #bgimg: "/img/bg.png"
+    bing:
+        enable: false
+        parameter: type=N
+
+# Images Settings
+img:
+    logo: "/img/logo.png"
+    avatar: "/img/avatar.jpeg"
+    daily_pic: "/img/daily_pic.png"
+    sidebar_header: "/img/sidebar_header.jpeg"
+    footerico: "/img/footer/footer_ico-"
+    #upyun_logo: "/img/upyun_logo.png"
+    random_thumbnail: "/img/random/material-"
+
+# Custom Fonts
+fonts: Roboto, "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif
+
+# ---------------------------------------------------------------
+# Menu Settings
+# ---------------------------------------------------------------
+
+# SNS Menu
+sns:
+    email: cmsyhs@gmail.com
+    facebook: 
+    twitter: 
+    googleplus: 
+    weibo: "weibo.com/u/1777051714/"
+    instagram: "https://www.instagram.com/watson_huang/"
+    tumblr: 
+    github: "https://github.com/watsonhs/"
+    linkedin: 
+    zhihu: 
+    bilibili: 
+    telegram: "https://t.me/WatsonH"
+
+# SNS Share Switch
+sns_share:
+    twitter: false
+    facebook: false
+    googleplus: false
+    weibo: true
+    linkedin: false
+    qq: true
+    telegram: true
+    github: true
+    instagram: true
+
+# Sidebar User Dropdown
+dropdown:
+    Email Me:
+        link: "mailto:cmsyhs@gmail.com"
+        icon: email
+
+# Sidebar Categories Switch
+sidebar_categories: false
+
+# Pages Menu
+pages:
+    关于我:
+        link: "/about"
+        icon: person
+    随影:
+         link: "/gallery"
+         icon: photo
+    标签云:
+         link: "/tags"
+
+# Qrcode for redirect at other device
+qrcode: true
+
+# ---------------------------------------------------------------
+# Integrated Services
+# ---------------------------------------------------------------
+
+# Comment Systems
+# Available value of "use":
+#     duoshuo | disqus
+comment:
+    use: disqus
+    shortname: watsonh
+    duoshuo_thread_key_type: path
+    duoshuo_embed_js_url: "https://static.duoshuo.com/embed.js"
+
+# Search Systems
+# Available value:
+#     swiftype | google | local
+search:
+    use: local
+    swiftype_key:
+
+# Leancloud Views
+leancloud:
+    enable: false
+    app_id: #你的app_id
+    app_key: #你的app_key
+    av_core_mini: "https://cdn1.lncld.net/static/js/av-core-mini-0.6.1.js"
+
+# Busuanzi 不蒜子 Views
+busuanzi:
+    enable: true
+    all_site_uv: true
+    post_pv: true
+    busuanzi_pure_mini_js: "https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"
+
