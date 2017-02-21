@@ -125,3 +125,19 @@ hexo g
 hexo s
 hexo s -g
 hexo g
+hexo s -g
+hexo s -g
+hexo s -g
+hexo s -g
+hexo g
+hexo s
+hexo clean
+hexo g
+hexo g
+hexo g
+hexo g
+hexo h
+hexo g
+hexo g
+hexo g
+hexo g

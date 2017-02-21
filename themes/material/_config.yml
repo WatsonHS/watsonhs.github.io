@@ -71,7 +71,7 @@ background:
 img:
     logo: "/img/logo.png"
     avatar: "/img/avatar.jpeg"
-    daily_pic: "/img/daily_pic.png"
+    daily_pic: "http://olmkpe8mp.bkt.clouddn.com/P27_2738x1779.jpeg"
     sidebar_header: "/img/sidebar_header.jpeg"
     footerico: "/img/footer/footer_ico-"
     #upyun_logo: "/img/upyun_logo.png"
@@ -118,7 +118,7 @@ dropdown:
         icon: email
 
 # Sidebar Categories Switch
-sidebar_categories: false
+sidebar_categories: true
 
 # Pages Menu
 pages:
@@ -132,7 +132,7 @@ pages:
          link: "/tags"
 
 # Qrcode for redirect at other device
-qrcode: true
+qrcode: false
 
 # ---------------------------------------------------------------
 # Integrated Services
