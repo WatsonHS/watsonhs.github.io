@@ -90,3 +90,11 @@ backup:
     repository:
        github: git@github.com:watsonhs/watsonhs.github.io.git,Backup
        coding: git@git.coding.net:watsonh/watsonh.git,backup
+
+#Rss
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:

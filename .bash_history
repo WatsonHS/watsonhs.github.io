@@ -141,3 +141,35 @@ hexo g
 hexo g
 hexo g
 hexo g
+hexo g
+hexo g
+hexo g
+hexo s
+hexo g
+hexo g
+hexo d
+ssh -vT git@github.com
+hexo d
+hexo clean
+hexo g
+hexo d
+hexo b
+hexo g
+hexo d
+hexo clean
+hexo g
+hexo d
+hexo b
+npm install hexo-generator-feed --save
+hexo g
+hexo s
+hexo g
+hexo g
+hexp g
+hexo g
+hexo n "at-the-begin-of-2017"
+hexo g
+hexo s
+hexo g
+hexo g
+hexo d
