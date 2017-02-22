@@ -177,3 +177,5 @@ hexo g -d
 hexo b
 hexo g -d
 hexo b
+hexo g -d
+hexo b
