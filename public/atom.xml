@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://watsonh.com/"/>
-  <updated>2017-02-21T13:03:00.597Z</updated>
+  <updated>2017-02-25T16:18:41.541Z</updated>
   <id>http://watsonh.com/</id>
   
   <author>
@@ -14,6 +14,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>just-an-eassy</title>
+    <link href="http://watsonh.com/2017/02/26/just-an-eassy/"/>
+    <id>http://watsonh.com/2017/02/26/just-an-eassy/</id>
+    <published>2017-02-25T16:18:41.000Z</published>
+    <updated>2017-02-25T16:18:41.541Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>2017之始</title>

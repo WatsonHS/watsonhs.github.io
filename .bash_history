@@ -179,3 +179,19 @@ hexo g -d
 hexo b
 hexo g -d
 hexo b
+hexo g -d
+hexo b
+hexo s -g
+sudo
+apt-get install vim-full
+su
+apt-get install vim
+vim
+vim _config.yml
+hexo n "just-an-eassy"
+hexo s -g
+hexo s -g
+hexo g
+hexo s -g
+hexo g
+hexo g
